@@ -5,6 +5,8 @@ echo '🏗️👷 Linting, testing and building your project before committing'
 
 yarn lint-staged
 
-echo '🤔🤔🤔🤔... Alright.... Code looks good to me... Trying to build now. 🤔🤔🤔🤔'
+echo '🤔🤔🤔🤔 Lnters and tests passed. Trying to build now. 🤔🤔🤔🤔'
 
 yarn build
+
+echo '✅✅✅✅ Committing... ✅✅✅✅'
