@@ -1,0 +1,8 @@
+{
+  "htmlWhitespaceSensitivity": "css",
+  "jsxSingleQuote": false,
+  "printWidth": 130,
+  "quoteProps": "as-needed",
+  "semi": true,
+  "tabWidth": 2
+}
