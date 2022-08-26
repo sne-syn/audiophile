@@ -42,7 +42,7 @@
     "typescript": "^4.8.2"
   },
   "lint-staged": {
-    "*.+(js)": [
+    "*.+(js|json|ts|tsx)": [
       "eslint"
     ],
     "**/*.+(js|jsx|json|html)": [
