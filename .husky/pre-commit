@@ -3,7 +3,7 @@
 
 echo '🏗️👷 Linting, testing and building your project before committing'
 
-yarn lint-staged
+yarn lint-staged && yarn test
 
 echo '🤔🤔🤔🤔 Lnters and tests passed. Trying to build now. 🤔🤔🤔🤔'
 
