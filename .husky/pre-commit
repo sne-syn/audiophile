@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo '🏗️👷 Linting, testing and building your project before committing'
+
+yarn lint-staged
+
+echo '🤔🤔🤔🤔 Lnters and tests passed. Trying to build now. 🤔🤔🤔🤔'
+
+yarn build
+
+echo '✅✅✅✅ Committing... ✅✅✅✅'
