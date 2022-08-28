@@ -2,7 +2,7 @@
 
 exports[`Home renders a heading 1`] = `
 <h1
-  class="title"
+  class="sc-jSMfEi geZytp"
 >
   Welcome to 
   <a
