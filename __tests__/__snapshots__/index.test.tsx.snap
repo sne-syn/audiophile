@@ -1,8 +1,29 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Home renders a heading 1`] = `
+.c0 {
+  font-size: 4rem;
+  line-height: 1.15;
+  margin: 0;
+  text-align: center;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0 a:hover,
+.c0 a:focus,
+.c0 a:active {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
 <h1
-  class="sc-jSMfEi geZytp"
+  class="c0"
 >
   Welcome to 
   <a
